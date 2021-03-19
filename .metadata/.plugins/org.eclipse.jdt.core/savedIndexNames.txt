@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Kaike_CC\GitHub\Java_Project-ChessGameSystem\.metadata\.plugins\org.eclipse.jdt.core
+927694051.index
+2196199803.index
