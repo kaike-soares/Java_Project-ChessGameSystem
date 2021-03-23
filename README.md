@@ -4,11 +4,11 @@
 
 
 ## First class: Position
-* Class Position [public]
-* OOP Topics:
- 1. Encapsulation
- 2. Constructors
- 3. ToString (Object / overriding)
+1. Class Position [public]
+2. OOP Topics:
+ - Encapsulation
+ - Constructors
+ - ToString (Object / overriding)
  
  
 <h4 align="center"> 
