@@ -45,6 +45,14 @@
 7. Data Structures Topics:
 	- Matrix
  
+## Placing pieces on the board 
+1. Method: Board.PlacePiece(piece, position)
+2. Classes: Rook, King [public]
+3. Method: ChessMatch.InitialSetup
+4. OOP Topics:
+	- Inheritance
+	- Overriding
+	- Polymorphism (ToString)
  
 <h4 align="center"> 
 	🚧  🚀 Em construção...  🚧
