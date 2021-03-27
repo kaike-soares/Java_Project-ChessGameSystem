@@ -28,7 +28,7 @@
 		3 - - - - - - - -
 		2 - - - - - - - -
 		1 - - - - - - - -
-		a b c d e f g h
+		  a b c d e f g h
 
 1. Methods: Board.Piece(row, column) and Board.Piece(position)
 2. Enum Chess.Color
@@ -53,6 +53,15 @@
 	- Inheritance
 	- Overriding
 	- Polymorphism (ToString)
+
+## BoardException and defensive programming 
+1. Class BoardException [public]
+2. Methods: Board.PositionExists, Board.ThereIsAPiece
+3. Implement defensive programming in Board methods
+4. OOP Topics:
+	- Exceptions
+	- Constructors (a string must be informed to the exception)
+
  
 <h4 align="center"> 
 	🚧  🚀 Em construção...  🚧
