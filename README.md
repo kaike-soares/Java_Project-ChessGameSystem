@@ -62,6 +62,18 @@
 	- Exceptions
 	- Constructors (a string must be informed to the exception)
 
+## ChessException and ChessPosition 
+1. Class ChessException [public]
+2. Class ChessPosition [public]
+3. Refactor ChessMatch.InitialSetup
+4. OOP Topics:
+	- Exceptions
+	- Encapsulation
+	- Constructors (a string must be informed to the exception)
+	- Overriding
+	- Static members
+	- Layers pattern
+
  
 <h4 align="center"> 
 	🚧  🚀 Em construção...  🚧
