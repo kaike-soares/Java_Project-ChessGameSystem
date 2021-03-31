@@ -74,6 +74,18 @@
 	- Static members
 	- Layers pattern
 
+## Moving pieces 
+1. Method Board.RemovePiece
+2. Method UI.ReadChessPosition
+3. Method ChessMatch.PerformChessMove
+	- Method ChessMatch.MakeMove
+	- Method ChessMatch.ValidadeSourcePosition
+4. Write basic logic on Program.cs
+5. OOP Topics:
+	- Exceptions
+	- Encapsulation
+
+
  
 <h4 align="center"> 
 	🚧  🚀 Em construção...  🚧
