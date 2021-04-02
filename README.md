@@ -86,7 +86,7 @@
 	- Encapsulation
 
 ## Handling exceptions and clearing screen
-1. Clear screen using Java:
+1. Clear screen using Java:<br>
 	https://stackoverflow.com/questions/2979383/java-clear-the-console
 
 			public static void clearScreen() {
