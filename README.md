@@ -99,9 +99,7 @@
 
 ## Possible moves of a piece
 ![1](https://user-images.githubusercontent.com/62703587/113467178-a21e8580-9417-11eb-9be3-2010b78c054b.PNG)
-![2](https://user-images.githubusercontent.com/62703587/113467328-b7e07a80-9418-11eb-9b11-67373d4aae35.PNG)
-
-
+![2](https://user-images.githubusercontent.com/62703587/113467346-d47cb280-9418-11eb-9b5e-014c1945e28e.PNG)
 
 1. Methods in Piece:
 	- PossibleMoves [abstract]
