@@ -97,6 +97,19 @@
 	- ChessException
 	- InputMismatchException
 
+## Possible moves of a piece
+
+1. Methods in Piece:
+	- PossibleMoves [abstract]
+	- PossibleMove
+	- IsThereAnyPossibleMove
+2. Basic PossibleMove implementation for Rook and King
+3. Update ChessMatch.ValidadeSourcePosition
+4. OOP Topics:
+	- Abstract method / class
+	- Exceptions	
+
+
  
 <h4 align="center"> 
 	🚧  🚀 Em construção...  🚧
