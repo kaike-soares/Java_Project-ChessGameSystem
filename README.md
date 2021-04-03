@@ -98,8 +98,9 @@
 	- InputMismatchException
 
 ## Possible moves of a piece
-			![1](https://user-images.githubusercontent.com/62703587/113467178-a21e8580-9417-11eb-9be3-2010b78c054b.PNG)
-			![2](https://user-images.githubusercontent.com/62703587/113467219-017c9580-9418-11eb-8efb-4df48bfa1b9c.PNG)
+![1](https://user-images.githubusercontent.com/62703587/113467178-a21e8580-9417-11eb-9be3-2010b78c054b.PNG)
+![2](https://user-images.githubusercontent.com/62703587/113467328-b7e07a80-9418-11eb-9b11-67373d4aae35.PNG)
+
 
 
 1. Methods in Piece:
