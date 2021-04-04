@@ -125,7 +125,14 @@
 2. Method UI.PrintBoard [overload]
 3. Refactor main program logic
 4. OOP Topics:
-	- Overloading	
+	- Overloading
+
+## Implementing possible moves of King
+1. Method King.CanMove(position)[private]
+2. Implement King.PossibleMoves
+3. OOP Topics:
+	- Encapsulation
+	- Polymorphism		
  
 <h4 align="center"> 
 	🚧  🚀 Em construção...  🚧
