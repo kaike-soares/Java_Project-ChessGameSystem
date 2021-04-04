@@ -111,7 +111,14 @@
 	- Abstract method / class
 	- Exceptions	
 
-
+## Implementing possible moves of Rook
+1. Method ChessPiece.IsThereOpponentPiece(position)[protected]
+2. Implement Rook.PossibleMoves
+3. Method ChessMatch.ValidateTargetPosition
+4. OOP Topics:
+	- Polymorphism
+	- Encapsulation / access modifiers [protected]
+	- Exceptions
  
 <h4 align="center"> 
 	🚧  🚀 Em construção...  🚧
