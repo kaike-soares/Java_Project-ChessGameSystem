@@ -119,6 +119,13 @@
 	- Polymorphism
 	- Encapsulation / access modifiers [protected]
 	- Exceptions
+
+# Printing possible moves
+1. Method ChessMatch.PossibleMoves
+2. Method UI.PrintBoard [overload]
+3. Refactor main program logic
+4. OOP Topics:
+	- Overloading	
  
 <h4 align="center"> 
 	🚧  🚀 Em construção...  🚧
