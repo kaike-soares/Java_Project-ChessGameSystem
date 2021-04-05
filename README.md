@@ -149,7 +149,7 @@
 1. Method UI.PrintCapturedPieces
 2. Update UI.PrintMatch
 3. Update Program logic
-4. Lists in ChessMatch:_piecesOnTheBoard, _CapturedPieces
+4. Lists in ChessMatch:_piecesOnTheBoard, _capturedPieces
 	- Update constructor
 	- Update PlaceNewPiece
 	- Update MakeMove
