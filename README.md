@@ -132,7 +132,18 @@
 2. Implement King.PossibleMoves
 3. OOP Topics:
 	- Encapsulation
-	- Polymorphism		
+	- Polymorphism	
+
+## Switching player each turn
+1. Class ChessMatch
+	- Properties Turn, CurrentPlayer [private set]
+	- Method NextTurn [private]
+	- Update PerformChessMove
+	- Update ValidateSourcePosition
+2. Method UI.PrintMatch
+3. OOP topics
+	- Encapsulation
+	- Exceptions			
  
 <h4 align="center"> 
 	🚧  🚀 Em construção...  🚧
