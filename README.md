@@ -143,7 +143,21 @@
 2. Method UI.PrintMatch
 3. OOP topics
 	- Encapsulation
-	- Exceptions			
+	- Exceptions
+
+## Handling captured pieces
+1. Method UI.PrintCapturedPieces
+2. Update UI.PrintMatch
+3. Update Program logic
+4. Lists in ChessMatch:_piecesOnTheBoard, _CapturedPieces
+	- Update constructor
+	- Update PlaceNewPiece
+	- Update MakeMove
+5. OOP Topics:
+	- Encapsulation
+	- Constructors
+6. Data Structures Topics:
+	- List					
  
 <h4 align="center"> 
 	🚧  🚀 Em construção...  🚧
