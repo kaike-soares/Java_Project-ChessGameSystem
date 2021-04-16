@@ -157,7 +157,23 @@
 	- Encapsulation
 	- Constructors
 6. Data Structures Topics:
-	- List					
+	- List		
+
+## Check logic
+0. Rules:
+	- Check means your king is under threat by at least one opponent piece
+	- You can't put yourself in check
+
+1. Property ChessPiece.ChessPosition [get]
+2. Class ChessMatch:
+	- Method UndoMove
+	- Property Check [private set]
+	- Method Opponent [private]
+	- Method King(color) [private]
+	- Method TestCheck
+	- Update PerformChessMove
+3. Update UI.PrintMatch
+				
  
 <h4 align="center"> 
 	🚧  🚀 Em construção...  🚧
