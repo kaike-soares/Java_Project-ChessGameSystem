@@ -160,10 +160,9 @@
 	- List		
 
 ## Check logic
-0. Rules:
+Rules:
 	- Check means your king is under threat by at least one opponent piece
 	- You can't put yourself in check
-
 1. Property ChessPiece.ChessPosition [get]
 2. Class ChessMatch:
 	- Method UndoMove
