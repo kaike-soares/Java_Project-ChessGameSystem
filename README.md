@@ -216,7 +216,15 @@
 3. OOP Topics:
 	- Encapsulation
 	- Inheritance
-	- Polymorphism	
+	- Polymorphism
+
+## Queen
+1. Class Queen
+2. Update ChessMatch.InitialSetup
+3. OOP Topics:
+	- Encapsulation
+	- Inheritance
+	- Polymorphism		
  
 <h4 align="center"> 
 	🚧  🚀 Em construção...  🚧
