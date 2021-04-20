@@ -201,6 +201,14 @@
 	- Encapsulation
 	- Inheritance
 	- Polymorphism
+
+## Bishop
+1. Class Bishop
+2. Update ChessMatch.InitialSetup
+3. OOP Topics:
+	- Encapsulation
+	- Inheritance
+	- Polymorphism	
  
 <h4 align="center"> 
 	🚧  🚀 Em construção...  🚧
