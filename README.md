@@ -208,6 +208,14 @@
 3. OOP Topics:
 	- Encapsulation
 	- Inheritance
+	- Polymorphism
+
+## Knight
+1. Class Knight
+2. Update ChessMatch.InitialSetup
+3. OOP Topics:
+	- Encapsulation
+	- Inheritance
 	- Polymorphism	
  
 <h4 align="center"> 
