@@ -174,6 +174,14 @@
 	- Update PerformChessMove
 3. Update UI.PrintMatch
 				
+## Checkmate logic
+1. Class ChessMatch
+	- Property Checkmate [private set]
+	- Method TestCheckmate [private]
+	- Update PerformChessMove
+2. Update UI.PrintMatch
+	- Method UndoMove
+3. Update Program logic
  
 <h4 align="center"> 
 	🚧  🚀 Em construção...  🚧
