@@ -193,6 +193,14 @@
 	- Update UndoMove
 3. OOP Topics:
 	- Encapsulation
+
+## Pawn
+1. Class Pawn
+2. Update ChessMatch.InitialSetup
+3. OOP Topics:
+	- Encapsulation
+	- Inheritance
+	- Polymorphism
  
 <h4 align="center"> 
 	🚧  🚀 Em construção...  🚧
