@@ -182,6 +182,17 @@
 2. Update UI.PrintMatch
 	- Method UndoMove
 3. Update Program logic
+
+## Piece move count
+1. Class ChessPiece:
+	- Property MoveCount [private set]
+	- Method IncreaseMoveCount [internal]
+	- Method DecreaseMoveCount [internal]
+2. Class ChessMatch:
+	- Update MakeMove
+	- Update UndoMove
+3. OOP Topics:
+	- Encapsulation
  
 <h4 align="center"> 
 	🚧  🚀 Em construção...  🚧
