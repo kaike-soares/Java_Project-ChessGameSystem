@@ -242,6 +242,14 @@
 4. Update ChessMatch.UndoMove
 5. Update ChessMatch.InitialSetup
  
+## Special move - Promotion
+![image](https://user-images.githubusercontent.com/62703587/115656607-da74fd80-a30b-11eb-84e3-c02cb6569d39.png)
+1. Property ChessMatch.Promoted
+2. Update ChessMatch.PerformChessMove
+3. Method ChessMatch.ReplacePromotedPiece
+4. Update Program logic
+
+
 <h4 align="center"> 
 	🚧  🚀 Em construção...  🚧
 </h4>
