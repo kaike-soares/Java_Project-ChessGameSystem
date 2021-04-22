@@ -232,6 +232,15 @@
 2. Update ChessMatch.MakeMove
 3. Update ChessMatch.UndoMove
 
+## Special move - En Passant
+![image](https://user-images.githubusercontent.com/62703587/115653114-f5903f00-a304-11eb-8c0f-0439c8793063.png)
+1. Register a pawn which can be captured by en passant on next turn
+	- Property ChessMatch.EnPassantVulnerable
+	- Update ChessMatch.PerformChessMove
+2. Update Pawn.PossibleMoves
+3. Update ChessMatch.MakeMove
+4. Update ChessMatch.UndoMove
+5. Update ChessMatch.InitialSetup
  
 <h4 align="center"> 
 	🚧  🚀 Em construção...  🚧
