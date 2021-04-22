@@ -224,7 +224,14 @@
 3. OOP Topics:
 	- Encapsulation
 	- Inheritance
-	- Polymorphism		
+	- Polymorphism	
+
+## Special move - Castiling
+![image](https://user-images.githubusercontent.com/62703587/115649032-ef966000-a2fc-11eb-8bc0-f4643acbba35.png)
+1. Update King
+2. Update ChessMatch.MakeMove
+3. Update ChessMatch.UndoMove
+
  
 <h4 align="center"> 
 	🚧  🚀 Em construção...  🚧
